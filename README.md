@@ -6,10 +6,10 @@
 
 ## Screenshot
 
-<img src="https://raw.githubusercontent.com/segnoda/Coda/master/screenshot/screenshot-1.png"  width="710"/>
-<img src="https://raw.githubusercontent.com/segnoda/Coda/master/screenshot/screenshot-2.png"  width="710"/>
-<img src="https://raw.githubusercontent.com/segnoda/Coda/master/screenshot/screenshot-3.png"  width="710"/>
-<img src="https://raw.githubusercontent.com/segnoda/Coda/master/screenshot/screenshot-4.png"  width="710"/>
+<img src="https://raw.githubusercontent.com/segnoda/Coda/master/screenshot/screenshot-1.png"  width="710"/>\
+<img src="https://raw.githubusercontent.com/segnoda/Coda/master/screenshot/screenshot-2.png"  width="710"/>\
+<img src="https://raw.githubusercontent.com/segnoda/Coda/master/screenshot/screenshot-3.png"  width="710"/>\
+<img src="https://raw.githubusercontent.com/segnoda/Coda/master/screenshot/screenshot-4.png"  width="710"/>\
 <img src="https://raw.githubusercontent.com/segnoda/Coda/master/screenshot/screenshot-5.png"  width="710"/>
 
 ## Getting Started
